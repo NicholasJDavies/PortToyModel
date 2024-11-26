@@ -1,5 +1,8 @@
 
 Printing State:
+Touches so far: 0
+Parent Node: None
+Node: 0
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -10,6 +13,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 1
+Parent Node: 0
+Node: 1
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -20,6 +26,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 1
+Node: 2
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -30,6 +39,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 2
+Node: 3
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 | 3 ||   ||   ||   ||   |
@@ -40,6 +52,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 3
+Node: 4
 |   ||   ||   ||   ||   |
 | 4 ||   ||   ||   ||   |
 | 3 ||   ||   ||   ||   |
@@ -50,6 +65,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 3
+Node: 5
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 | 3 ||   ||   ||   ||   |
@@ -60,6 +78,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 3
+Node: 6
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 | 3 ||   ||   ||   ||   |
@@ -70,6 +91,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 3
+Node: 7
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 | 3 ||   ||   ||   ||   |
@@ -80,6 +104,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 3
+Node: 8
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 | 3 ||   ||   ||   ||   |
@@ -90,6 +117,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 2
+Node: 9
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -100,6 +130,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 9
+Node: 10
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 | 4 ||   ||   ||   ||   |
@@ -110,6 +143,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 9
+Node: 11
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -120,6 +156,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 9
+Node: 12
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -130,6 +169,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 9
+Node: 13
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -140,6 +182,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 9
+Node: 14
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -150,6 +195,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 2
+Node: 15
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -160,6 +208,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 15
+Node: 16
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 | 4 ||   ||   ||   ||   |
@@ -170,6 +221,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 15
+Node: 17
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -180,6 +234,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 15
+Node: 18
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -190,6 +247,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 15
+Node: 19
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -200,6 +260,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 15
+Node: 20
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -210,6 +273,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 2
+Node: 21
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -220,6 +286,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 21
+Node: 22
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 | 4 ||   ||   ||   ||   |
@@ -230,6 +299,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 21
+Node: 23
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -240,6 +312,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 21
+Node: 24
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -250,6 +325,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 21
+Node: 25
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -260,6 +338,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 21
+Node: 26
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -270,6 +351,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 2
+Node: 27
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -280,6 +364,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 27
+Node: 28
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 | 4 ||   ||   ||   ||   |
@@ -290,6 +377,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 27
+Node: 29
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -300,6 +390,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 27
+Node: 30
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -310,6 +403,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 27
+Node: 31
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -320,6 +416,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 27
+Node: 32
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -330,6 +429,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 1
+Node: 33
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -340,6 +442,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 33
+Node: 34
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -350,6 +455,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 34
+Node: 35
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 | 4 ||   ||   ||   ||   |
@@ -360,6 +468,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 34
+Node: 36
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -370,6 +481,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 34
+Node: 37
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -380,6 +494,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 34
+Node: 38
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -390,6 +507,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 34
+Node: 39
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -400,6 +520,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 33
+Node: 40
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -410,6 +533,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 40
+Node: 41
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -420,6 +546,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 40
+Node: 42
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   || 4 ||   ||   ||   |
@@ -430,6 +559,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 40
+Node: 43
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -440,6 +572,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 40
+Node: 44
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -450,6 +585,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 40
+Node: 45
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -460,6 +598,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 33
+Node: 46
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -470,6 +611,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 46
+Node: 47
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -480,6 +624,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 46
+Node: 48
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -490,6 +637,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 46
+Node: 49
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -500,6 +650,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 46
+Node: 50
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -510,6 +663,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 46
+Node: 51
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -520,6 +676,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 33
+Node: 52
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -530,6 +689,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 52
+Node: 53
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -540,6 +702,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 52
+Node: 54
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -550,6 +715,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 52
+Node: 55
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -560,6 +728,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 52
+Node: 56
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -570,6 +741,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 52
+Node: 57
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -580,6 +754,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 33
+Node: 58
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -590,6 +767,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 58
+Node: 59
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -600,6 +780,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 58
+Node: 60
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -610,6 +793,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 58
+Node: 61
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -620,6 +806,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 58
+Node: 62
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -630,6 +819,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 58
+Node: 63
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -640,6 +832,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 1
+Node: 64
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -650,6 +845,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 64
+Node: 65
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -660,6 +858,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 65
+Node: 66
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 | 4 ||   ||   ||   ||   |
@@ -670,6 +871,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 65
+Node: 67
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -680,6 +884,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 65
+Node: 68
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -690,6 +897,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 65
+Node: 69
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -700,6 +910,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 65
+Node: 70
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -710,6 +923,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 64
+Node: 71
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -720,6 +936,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 71
+Node: 72
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -730,6 +949,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 71
+Node: 73
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -740,6 +962,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 71
+Node: 74
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -750,6 +975,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 71
+Node: 75
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -760,6 +988,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 71
+Node: 76
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -770,6 +1001,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 64
+Node: 77
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -780,6 +1014,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 77
+Node: 78
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -790,6 +1027,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 77
+Node: 79
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -800,6 +1040,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 77
+Node: 80
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   || 4 ||   ||   |
@@ -810,6 +1053,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 77
+Node: 81
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -820,6 +1066,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 77
+Node: 82
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -830,6 +1079,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 64
+Node: 83
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -840,6 +1092,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 83
+Node: 84
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -850,6 +1105,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 83
+Node: 85
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -860,6 +1118,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 83
+Node: 86
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -870,6 +1131,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 83
+Node: 87
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -880,6 +1144,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 83
+Node: 88
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -890,6 +1157,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 64
+Node: 89
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -900,6 +1170,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 89
+Node: 90
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -910,6 +1183,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 89
+Node: 91
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -920,6 +1196,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 89
+Node: 92
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -930,6 +1209,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 89
+Node: 93
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -940,6 +1222,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 89
+Node: 94
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -950,6 +1235,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 1
+Node: 95
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -960,6 +1248,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 95
+Node: 96
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -970,6 +1261,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 96
+Node: 97
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 | 4 ||   ||   ||   ||   |
@@ -980,6 +1274,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 96
+Node: 98
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -990,6 +1287,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 96
+Node: 99
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1000,6 +1300,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 96
+Node: 100
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1010,6 +1313,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 96
+Node: 101
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1020,6 +1326,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 95
+Node: 102
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1030,6 +1339,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 102
+Node: 103
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1040,6 +1352,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 102
+Node: 104
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1050,6 +1365,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 102
+Node: 105
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1060,6 +1378,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 102
+Node: 106
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1070,6 +1391,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 102
+Node: 107
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1080,6 +1404,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 95
+Node: 108
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1090,6 +1417,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 108
+Node: 109
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1100,6 +1430,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 108
+Node: 110
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1110,6 +1443,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 108
+Node: 111
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1120,6 +1456,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 108
+Node: 112
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1130,6 +1469,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 108
+Node: 113
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1140,6 +1482,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 95
+Node: 114
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1150,6 +1495,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 114
+Node: 115
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1160,6 +1508,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 114
+Node: 116
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1170,6 +1521,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 114
+Node: 117
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1180,6 +1534,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 114
+Node: 118
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   || 4 ||   |
@@ -1190,6 +1547,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 114
+Node: 119
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1200,6 +1560,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 95
+Node: 120
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1210,6 +1573,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 120
+Node: 121
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1220,6 +1586,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 120
+Node: 122
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1230,6 +1599,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 120
+Node: 123
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1240,6 +1612,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 120
+Node: 124
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1250,6 +1625,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 120
+Node: 125
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1260,6 +1638,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 1
+Node: 126
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1270,6 +1651,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 126
+Node: 127
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1280,6 +1664,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 127
+Node: 128
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 | 4 ||   ||   ||   ||   |
@@ -1290,6 +1677,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 127
+Node: 129
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1300,6 +1690,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 127
+Node: 130
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1310,6 +1703,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 127
+Node: 131
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1320,6 +1716,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 127
+Node: 132
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1330,6 +1729,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 126
+Node: 133
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1340,6 +1742,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 133
+Node: 134
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1350,6 +1755,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 133
+Node: 135
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1360,6 +1768,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 133
+Node: 136
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1370,6 +1781,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 133
+Node: 137
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1380,6 +1794,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 133
+Node: 138
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1390,6 +1807,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 126
+Node: 139
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1400,6 +1820,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 139
+Node: 140
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1410,6 +1833,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 139
+Node: 141
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1420,6 +1846,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 139
+Node: 142
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1430,6 +1859,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 139
+Node: 143
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1440,6 +1872,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 139
+Node: 144
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1450,6 +1885,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 126
+Node: 145
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1460,6 +1898,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 145
+Node: 146
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1470,6 +1911,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 145
+Node: 147
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1480,6 +1924,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 145
+Node: 148
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1490,6 +1937,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 145
+Node: 149
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1500,6 +1950,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 145
+Node: 150
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1510,6 +1963,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 126
+Node: 151
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1520,6 +1976,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 151
+Node: 152
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1530,6 +1989,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 151
+Node: 153
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1540,6 +2002,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 151
+Node: 154
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1550,6 +2015,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 151
+Node: 155
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1560,6 +2028,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 151
+Node: 156
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   || 4 |
@@ -1570,6 +2041,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 1
+Parent Node: 0
+Node: 157
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1580,6 +2054,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 157
+Node: 158
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1590,6 +2067,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 158
+Node: 159
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1600,6 +2080,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 159
+Node: 160
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 | 4 ||   ||   ||   ||   |
@@ -1610,6 +2093,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 159
+Node: 161
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1620,6 +2106,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 159
+Node: 162
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1630,6 +2119,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 159
+Node: 163
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1640,6 +2132,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 159
+Node: 164
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1650,6 +2145,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 158
+Node: 165
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1660,6 +2158,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 165
+Node: 166
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1670,6 +2171,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 165
+Node: 167
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   || 4 ||   ||   ||   |
@@ -1680,6 +2184,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 165
+Node: 168
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1690,6 +2197,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 165
+Node: 169
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1700,6 +2210,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 165
+Node: 170
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1710,6 +2223,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 158
+Node: 171
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1720,6 +2236,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 171
+Node: 172
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1730,6 +2249,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 171
+Node: 173
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1740,6 +2262,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 171
+Node: 174
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1750,6 +2275,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 171
+Node: 175
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1760,6 +2288,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 171
+Node: 176
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1770,6 +2301,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 158
+Node: 177
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1780,6 +2314,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 177
+Node: 178
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1790,6 +2327,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 177
+Node: 179
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1800,6 +2340,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 177
+Node: 180
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1810,6 +2353,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 177
+Node: 181
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1820,6 +2366,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 177
+Node: 182
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1830,6 +2379,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 158
+Node: 183
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1840,6 +2392,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 183
+Node: 184
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1850,6 +2405,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 183
+Node: 185
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1860,6 +2418,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 183
+Node: 186
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1870,6 +2431,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 183
+Node: 187
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1880,6 +2444,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 183
+Node: 188
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1890,6 +2457,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 157
+Node: 189
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1900,6 +2470,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 189
+Node: 190
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1910,6 +2483,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 190
+Node: 191
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1920,6 +2496,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 190
+Node: 192
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   || 4 ||   ||   ||   |
@@ -1930,6 +2509,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 190
+Node: 193
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1940,6 +2522,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 190
+Node: 194
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1950,6 +2535,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 190
+Node: 195
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -1960,6 +2548,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 189
+Node: 196
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   || 3 ||   ||   ||   |
@@ -1970,6 +2561,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 196
+Node: 197
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   || 3 ||   ||   ||   |
@@ -1980,6 +2574,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 196
+Node: 198
 |   ||   ||   ||   ||   |
 |   || 4 ||   ||   ||   |
 |   || 3 ||   ||   ||   |
@@ -1990,6 +2587,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 196
+Node: 199
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   || 3 ||   ||   ||   |
@@ -2000,6 +2600,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 196
+Node: 200
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   || 3 ||   ||   ||   |
@@ -2010,6 +2613,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 196
+Node: 201
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   || 3 ||   ||   ||   |
@@ -2020,6 +2626,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 189
+Node: 202
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2030,6 +2639,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 202
+Node: 203
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2040,6 +2652,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 202
+Node: 204
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   || 4 ||   ||   ||   |
@@ -2050,6 +2665,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 202
+Node: 205
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2060,6 +2678,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 202
+Node: 206
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2070,6 +2691,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 202
+Node: 207
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2080,6 +2704,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 189
+Node: 208
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2090,6 +2717,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 208
+Node: 209
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2100,6 +2730,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 208
+Node: 210
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   || 4 ||   ||   ||   |
@@ -2110,6 +2743,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 208
+Node: 211
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2120,6 +2756,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 208
+Node: 212
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2130,6 +2769,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 208
+Node: 213
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2140,6 +2782,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 189
+Node: 214
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2150,6 +2795,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 214
+Node: 215
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2160,6 +2808,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 214
+Node: 216
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   || 4 ||   ||   ||   |
@@ -2170,6 +2821,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 214
+Node: 217
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2180,6 +2834,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 214
+Node: 218
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2190,6 +2847,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 214
+Node: 219
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2200,6 +2860,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 157
+Node: 220
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2210,6 +2873,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 220
+Node: 221
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2220,6 +2886,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 221
+Node: 222
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2230,6 +2899,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 221
+Node: 223
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2240,6 +2912,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 221
+Node: 224
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2250,6 +2925,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 221
+Node: 225
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2260,6 +2938,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 221
+Node: 226
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2270,6 +2951,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 220
+Node: 227
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2280,6 +2964,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 227
+Node: 228
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2290,6 +2977,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 227
+Node: 229
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   || 4 ||   ||   ||   |
@@ -2300,6 +2990,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 227
+Node: 230
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2310,6 +3003,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 227
+Node: 231
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2320,6 +3016,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 227
+Node: 232
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2330,6 +3029,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 220
+Node: 233
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2340,6 +3042,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 233
+Node: 234
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2350,6 +3055,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 233
+Node: 235
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2360,6 +3068,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 233
+Node: 236
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   || 4 ||   ||   |
@@ -2370,6 +3081,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 233
+Node: 237
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2380,6 +3094,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 233
+Node: 238
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2390,6 +3107,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 220
+Node: 239
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2400,6 +3120,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 239
+Node: 240
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2410,6 +3133,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 239
+Node: 241
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2420,6 +3146,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 239
+Node: 242
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2430,6 +3159,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 239
+Node: 243
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2440,6 +3172,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 239
+Node: 244
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2450,6 +3185,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 220
+Node: 245
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2460,6 +3198,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 245
+Node: 246
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2470,6 +3211,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 245
+Node: 247
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2480,6 +3224,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 245
+Node: 248
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2490,6 +3237,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 245
+Node: 249
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2500,6 +3250,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 245
+Node: 250
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2510,6 +3263,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 157
+Node: 251
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2520,6 +3276,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 251
+Node: 252
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2530,6 +3289,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 252
+Node: 253
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2540,6 +3302,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 252
+Node: 254
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2550,6 +3315,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 252
+Node: 255
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2560,6 +3328,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 252
+Node: 256
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2570,6 +3341,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 252
+Node: 257
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2580,6 +3354,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 251
+Node: 258
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2590,6 +3367,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 258
+Node: 259
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2600,6 +3380,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 258
+Node: 260
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   || 4 ||   ||   ||   |
@@ -2610,6 +3393,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 258
+Node: 261
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2620,6 +3406,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 258
+Node: 262
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2630,6 +3419,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 258
+Node: 263
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2640,6 +3432,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 251
+Node: 264
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2650,6 +3445,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 264
+Node: 265
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2660,6 +3458,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 264
+Node: 266
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2670,6 +3471,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 264
+Node: 267
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2680,6 +3484,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 264
+Node: 268
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2690,6 +3497,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 264
+Node: 269
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2700,6 +3510,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 251
+Node: 270
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2710,6 +3523,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 270
+Node: 271
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2720,6 +3536,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 270
+Node: 272
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2730,6 +3549,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 270
+Node: 273
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2740,6 +3562,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 270
+Node: 274
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   || 4 ||   |
@@ -2750,6 +3575,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 270
+Node: 275
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2760,6 +3588,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 251
+Node: 276
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2770,6 +3601,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 276
+Node: 277
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2780,6 +3614,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 276
+Node: 278
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2790,6 +3627,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 276
+Node: 279
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2800,6 +3640,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 276
+Node: 280
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2810,6 +3653,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 276
+Node: 281
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2820,6 +3666,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 157
+Node: 282
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2830,6 +3679,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 282
+Node: 283
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2840,6 +3692,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 283
+Node: 284
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2850,6 +3705,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 283
+Node: 285
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2860,6 +3718,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 283
+Node: 286
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2870,6 +3731,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 283
+Node: 287
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2880,6 +3744,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 283
+Node: 288
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2890,6 +3757,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 282
+Node: 289
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2900,6 +3770,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 289
+Node: 290
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2910,6 +3783,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 289
+Node: 291
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   || 4 ||   ||   ||   |
@@ -2920,6 +3796,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 289
+Node: 292
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2930,6 +3809,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 289
+Node: 293
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2940,6 +3822,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 289
+Node: 294
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2950,6 +3835,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 282
+Node: 295
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2960,6 +3848,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 295
+Node: 296
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2970,6 +3861,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 295
+Node: 297
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2980,6 +3874,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 295
+Node: 298
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -2990,6 +3887,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 295
+Node: 299
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3000,6 +3900,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 295
+Node: 300
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3010,6 +3913,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 282
+Node: 301
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3020,6 +3926,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 301
+Node: 302
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3030,6 +3939,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 301
+Node: 303
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3040,6 +3952,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 301
+Node: 304
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3050,6 +3965,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 301
+Node: 305
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3060,6 +3978,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 301
+Node: 306
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3070,6 +3991,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 282
+Node: 307
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3080,6 +4004,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 307
+Node: 308
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3090,6 +4017,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 307
+Node: 309
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3100,6 +4030,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 307
+Node: 310
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3110,6 +4043,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 307
+Node: 311
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3120,6 +4056,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 307
+Node: 312
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   || 4 |
@@ -3130,6 +4069,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 1
+Parent Node: 0
+Node: 313
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3140,6 +4082,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 313
+Node: 314
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3150,6 +4095,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 314
+Node: 315
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3160,6 +4108,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 315
+Node: 316
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 | 4 ||   ||   ||   ||   |
@@ -3170,6 +4121,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 315
+Node: 317
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3180,6 +4134,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 315
+Node: 318
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3190,6 +4147,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 315
+Node: 319
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3200,6 +4160,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 315
+Node: 320
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3210,6 +4173,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 314
+Node: 321
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3220,6 +4186,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 321
+Node: 322
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3230,6 +4199,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 321
+Node: 323
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3240,6 +4212,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 321
+Node: 324
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3250,6 +4225,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 321
+Node: 325
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3260,6 +4238,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 321
+Node: 326
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3270,6 +4251,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 314
+Node: 327
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3280,6 +4264,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 327
+Node: 328
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3290,6 +4277,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 327
+Node: 329
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3300,6 +4290,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 327
+Node: 330
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   || 4 ||   ||   |
@@ -3310,6 +4303,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 327
+Node: 331
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3320,6 +4316,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 327
+Node: 332
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3330,6 +4329,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 314
+Node: 333
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3340,6 +4342,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 333
+Node: 334
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3350,6 +4355,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 333
+Node: 335
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3360,6 +4368,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 333
+Node: 336
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3370,6 +4381,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 333
+Node: 337
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3380,6 +4394,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 333
+Node: 338
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3390,6 +4407,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 314
+Node: 339
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3400,6 +4420,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 339
+Node: 340
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3410,6 +4433,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 339
+Node: 341
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3420,6 +4446,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 339
+Node: 342
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3430,6 +4459,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 339
+Node: 343
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3440,6 +4472,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 339
+Node: 344
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3450,6 +4485,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 313
+Node: 345
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3460,6 +4498,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 345
+Node: 346
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3470,6 +4511,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 346
+Node: 347
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3480,6 +4524,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 346
+Node: 348
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3490,6 +4537,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 346
+Node: 349
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3500,6 +4550,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 346
+Node: 350
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3510,6 +4563,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 346
+Node: 351
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3520,6 +4576,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 345
+Node: 352
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3530,6 +4589,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 352
+Node: 353
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3540,6 +4602,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 352
+Node: 354
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   || 4 ||   ||   ||   |
@@ -3550,6 +4615,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 352
+Node: 355
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3560,6 +4628,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 352
+Node: 356
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3570,6 +4641,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 352
+Node: 357
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3580,6 +4654,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 345
+Node: 358
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3590,6 +4667,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 358
+Node: 359
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3600,6 +4680,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 358
+Node: 360
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3610,6 +4693,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 358
+Node: 361
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   || 4 ||   ||   |
@@ -3620,6 +4706,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 358
+Node: 362
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3630,6 +4719,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 358
+Node: 363
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3640,6 +4732,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 345
+Node: 364
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3650,6 +4745,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 364
+Node: 365
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3660,6 +4758,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 364
+Node: 366
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3670,6 +4771,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 364
+Node: 367
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3680,6 +4784,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 364
+Node: 368
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3690,6 +4797,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 364
+Node: 369
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3700,6 +4810,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 345
+Node: 370
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3710,6 +4823,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 370
+Node: 371
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3720,6 +4836,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 370
+Node: 372
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3730,6 +4849,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 370
+Node: 373
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3740,6 +4862,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 370
+Node: 374
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3750,6 +4875,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 370
+Node: 375
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3760,6 +4888,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 313
+Node: 376
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3770,6 +4901,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 376
+Node: 377
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3780,6 +4914,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 377
+Node: 378
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3790,6 +4927,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 377
+Node: 379
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3800,6 +4940,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 377
+Node: 380
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   || 4 ||   ||   |
@@ -3810,6 +4953,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 377
+Node: 381
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3820,6 +4966,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 377
+Node: 382
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3830,6 +4979,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 376
+Node: 383
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3840,6 +4992,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 383
+Node: 384
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3850,6 +5005,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 383
+Node: 385
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3860,6 +5018,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 383
+Node: 386
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   || 4 ||   ||   |
@@ -3870,6 +5031,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 383
+Node: 387
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3880,6 +5044,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 383
+Node: 388
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3890,6 +5057,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 376
+Node: 389
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   || 3 ||   ||   |
@@ -3900,6 +5070,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 389
+Node: 390
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   || 3 ||   ||   |
@@ -3910,6 +5083,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 389
+Node: 391
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   || 3 ||   ||   |
@@ -3920,6 +5096,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 389
+Node: 392
 |   ||   ||   ||   ||   |
 |   ||   || 4 ||   ||   |
 |   ||   || 3 ||   ||   |
@@ -3930,6 +5109,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 389
+Node: 393
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   || 3 ||   ||   |
@@ -3940,6 +5122,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 389
+Node: 394
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   || 3 ||   ||   |
@@ -3950,6 +5135,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 376
+Node: 395
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3960,6 +5148,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 395
+Node: 396
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3970,6 +5161,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 395
+Node: 397
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -3980,6 +5174,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 395
+Node: 398
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   || 4 ||   ||   |
@@ -3990,6 +5187,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 395
+Node: 399
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4000,6 +5200,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 395
+Node: 400
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4010,6 +5213,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 376
+Node: 401
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4020,6 +5226,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 401
+Node: 402
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4030,6 +5239,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 401
+Node: 403
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4040,6 +5252,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 401
+Node: 404
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   || 4 ||   ||   |
@@ -4050,6 +5265,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 401
+Node: 405
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4060,6 +5278,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 401
+Node: 406
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4070,6 +5291,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 313
+Node: 407
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4080,6 +5304,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 407
+Node: 408
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4090,6 +5317,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 408
+Node: 409
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4100,6 +5330,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 408
+Node: 410
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4110,6 +5343,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 408
+Node: 411
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4120,6 +5356,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 408
+Node: 412
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4130,6 +5369,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 408
+Node: 413
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4140,6 +5382,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 407
+Node: 414
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4150,6 +5395,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 414
+Node: 415
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4160,6 +5408,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 414
+Node: 416
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4170,6 +5421,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 414
+Node: 417
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4180,6 +5434,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 414
+Node: 418
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4190,6 +5447,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 414
+Node: 419
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4200,6 +5460,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 407
+Node: 420
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4210,6 +5473,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 420
+Node: 421
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4220,6 +5486,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 420
+Node: 422
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4230,6 +5499,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 420
+Node: 423
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   || 4 ||   ||   |
@@ -4240,6 +5512,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 420
+Node: 424
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4250,6 +5525,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 420
+Node: 425
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4260,6 +5538,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 407
+Node: 426
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4270,6 +5551,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 426
+Node: 427
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4280,6 +5564,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 426
+Node: 428
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4290,6 +5577,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 426
+Node: 429
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4300,6 +5590,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 426
+Node: 430
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   || 4 ||   |
@@ -4310,6 +5603,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 426
+Node: 431
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4320,6 +5616,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 407
+Node: 432
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4330,6 +5629,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 432
+Node: 433
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4340,6 +5642,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 432
+Node: 434
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4350,6 +5655,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 432
+Node: 435
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4360,6 +5668,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 432
+Node: 436
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4370,6 +5681,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 432
+Node: 437
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4380,6 +5694,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 313
+Node: 438
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4390,6 +5707,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 438
+Node: 439
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4400,6 +5720,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 439
+Node: 440
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4410,6 +5733,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 439
+Node: 441
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4420,6 +5746,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 439
+Node: 442
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4430,6 +5759,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 439
+Node: 443
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4440,6 +5772,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 439
+Node: 444
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4450,6 +5785,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 438
+Node: 445
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4460,6 +5798,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 445
+Node: 446
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4470,6 +5811,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 445
+Node: 447
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4480,6 +5824,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 445
+Node: 448
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4490,6 +5837,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 445
+Node: 449
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4500,6 +5850,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 445
+Node: 450
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4510,6 +5863,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 438
+Node: 451
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4520,6 +5876,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 451
+Node: 452
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4530,6 +5889,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 451
+Node: 453
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4540,6 +5902,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 451
+Node: 454
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   || 4 ||   ||   |
@@ -4550,6 +5915,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 451
+Node: 455
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4560,6 +5928,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 451
+Node: 456
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4570,6 +5941,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 438
+Node: 457
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4580,6 +5954,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 457
+Node: 458
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4590,6 +5967,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 457
+Node: 459
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4600,6 +5980,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 457
+Node: 460
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4610,6 +5993,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 457
+Node: 461
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4620,6 +6006,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 457
+Node: 462
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4630,6 +6019,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 438
+Node: 463
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4640,6 +6032,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 463
+Node: 464
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4650,6 +6045,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 463
+Node: 465
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4660,6 +6058,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 463
+Node: 466
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4670,6 +6071,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 463
+Node: 467
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4680,6 +6084,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 463
+Node: 468
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   || 4 |
@@ -4690,6 +6097,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 1
+Parent Node: 0
+Node: 469
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4700,6 +6110,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 469
+Node: 470
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4710,6 +6123,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 470
+Node: 471
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4720,6 +6136,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 471
+Node: 472
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 | 4 ||   ||   ||   ||   |
@@ -4730,6 +6149,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 471
+Node: 473
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4740,6 +6162,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 471
+Node: 474
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4750,6 +6175,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 471
+Node: 475
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4760,6 +6188,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 471
+Node: 476
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4770,6 +6201,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 470
+Node: 477
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4780,6 +6214,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 477
+Node: 478
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4790,6 +6227,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 477
+Node: 479
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4800,6 +6240,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 477
+Node: 480
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4810,6 +6253,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 477
+Node: 481
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4820,6 +6266,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 477
+Node: 482
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4830,6 +6279,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 470
+Node: 483
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4840,6 +6292,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 483
+Node: 484
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4850,6 +6305,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 483
+Node: 485
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4860,6 +6318,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 483
+Node: 486
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4870,6 +6331,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 483
+Node: 487
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4880,6 +6344,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 483
+Node: 488
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4890,6 +6357,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 470
+Node: 489
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4900,6 +6370,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 489
+Node: 490
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4910,6 +6383,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 489
+Node: 491
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4920,6 +6396,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 489
+Node: 492
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4930,6 +6409,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 489
+Node: 493
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   || 4 ||   |
@@ -4940,6 +6422,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 489
+Node: 494
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4950,6 +6435,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 470
+Node: 495
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4960,6 +6448,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 495
+Node: 496
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4970,6 +6461,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 495
+Node: 497
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4980,6 +6474,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 495
+Node: 498
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -4990,6 +6487,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 495
+Node: 499
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5000,6 +6500,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 495
+Node: 500
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5010,6 +6513,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 469
+Node: 501
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5020,6 +6526,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 501
+Node: 502
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5030,6 +6539,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 502
+Node: 503
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5040,6 +6552,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 502
+Node: 504
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5050,6 +6565,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 502
+Node: 505
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5060,6 +6578,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 502
+Node: 506
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5070,6 +6591,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 502
+Node: 507
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5080,6 +6604,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 501
+Node: 508
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5090,6 +6617,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 508
+Node: 509
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5100,6 +6630,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 508
+Node: 510
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   || 4 ||   ||   ||   |
@@ -5110,6 +6643,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 508
+Node: 511
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5120,6 +6656,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 508
+Node: 512
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5130,6 +6669,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 508
+Node: 513
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5140,6 +6682,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 501
+Node: 514
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5150,6 +6695,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 514
+Node: 515
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5160,6 +6708,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 514
+Node: 516
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5170,6 +6721,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 514
+Node: 517
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5180,6 +6734,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 514
+Node: 518
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5190,6 +6747,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 514
+Node: 519
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5200,6 +6760,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 501
+Node: 520
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5210,6 +6773,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 520
+Node: 521
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5220,6 +6786,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 520
+Node: 522
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5230,6 +6799,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 520
+Node: 523
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5240,6 +6812,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 520
+Node: 524
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   || 4 ||   |
@@ -5250,6 +6825,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 520
+Node: 525
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5260,6 +6838,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 501
+Node: 526
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5270,6 +6851,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 526
+Node: 527
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5280,6 +6864,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 526
+Node: 528
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5290,6 +6877,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 526
+Node: 529
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5300,6 +6890,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 526
+Node: 530
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5310,6 +6903,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 526
+Node: 531
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5320,6 +6916,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 469
+Node: 532
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5330,6 +6929,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 532
+Node: 533
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5340,6 +6942,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 533
+Node: 534
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5350,6 +6955,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 533
+Node: 535
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5360,6 +6968,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 533
+Node: 536
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5370,6 +6981,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 533
+Node: 537
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5380,6 +6994,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 533
+Node: 538
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5390,6 +7007,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 532
+Node: 539
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5400,6 +7020,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 539
+Node: 540
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5410,6 +7033,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 539
+Node: 541
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5420,6 +7046,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 539
+Node: 542
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5430,6 +7059,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 539
+Node: 543
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5440,6 +7072,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 539
+Node: 544
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5450,6 +7085,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 532
+Node: 545
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5460,6 +7098,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 545
+Node: 546
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5470,6 +7111,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 545
+Node: 547
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5480,6 +7124,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 545
+Node: 548
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   || 4 ||   ||   |
@@ -5490,6 +7137,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 545
+Node: 549
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5500,6 +7150,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 545
+Node: 550
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5510,6 +7163,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 532
+Node: 551
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5520,6 +7176,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 551
+Node: 552
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5530,6 +7189,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 551
+Node: 553
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5540,6 +7202,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 551
+Node: 554
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5550,6 +7215,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 551
+Node: 555
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   || 4 ||   |
@@ -5560,6 +7228,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 551
+Node: 556
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5570,6 +7241,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 532
+Node: 557
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5580,6 +7254,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 557
+Node: 558
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5590,6 +7267,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 557
+Node: 559
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5600,6 +7280,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 557
+Node: 560
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5610,6 +7293,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 557
+Node: 561
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5620,6 +7306,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 557
+Node: 562
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5630,6 +7319,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 469
+Node: 563
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5640,6 +7332,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 563
+Node: 564
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5650,6 +7345,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 564
+Node: 565
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5660,6 +7358,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 564
+Node: 566
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5670,6 +7371,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 564
+Node: 567
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5680,6 +7384,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 564
+Node: 568
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   || 4 ||   |
@@ -5690,6 +7397,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 564
+Node: 569
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5700,6 +7410,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 563
+Node: 570
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5710,6 +7423,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 570
+Node: 571
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5720,6 +7436,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 570
+Node: 572
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5730,6 +7449,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 570
+Node: 573
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5740,6 +7462,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 570
+Node: 574
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   || 4 ||   |
@@ -5750,6 +7475,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 570
+Node: 575
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5760,6 +7488,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 563
+Node: 576
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5770,6 +7501,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 576
+Node: 577
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5780,6 +7514,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 576
+Node: 578
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5790,6 +7527,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 576
+Node: 579
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5800,6 +7540,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 576
+Node: 580
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   || 4 ||   |
@@ -5810,6 +7553,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 576
+Node: 581
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5820,6 +7566,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 563
+Node: 582
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   || 3 ||   |
@@ -5830,6 +7579,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 582
+Node: 583
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   || 3 ||   |
@@ -5840,6 +7592,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 582
+Node: 584
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   || 3 ||   |
@@ -5850,6 +7605,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 582
+Node: 585
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   || 3 ||   |
@@ -5860,6 +7618,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 582
+Node: 586
 |   ||   ||   ||   ||   |
 |   ||   ||   || 4 ||   |
 |   ||   ||   || 3 ||   |
@@ -5870,6 +7631,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 582
+Node: 587
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   || 3 ||   |
@@ -5880,6 +7644,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 563
+Node: 588
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5890,6 +7657,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 588
+Node: 589
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5900,6 +7670,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 588
+Node: 590
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5910,6 +7683,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 588
+Node: 591
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5920,6 +7696,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 588
+Node: 592
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   || 4 ||   |
@@ -5930,6 +7709,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 588
+Node: 593
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5940,6 +7722,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 469
+Node: 594
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5950,6 +7735,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 594
+Node: 595
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5960,6 +7748,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 595
+Node: 596
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5970,6 +7761,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 595
+Node: 597
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5980,6 +7774,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 595
+Node: 598
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -5990,6 +7787,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 595
+Node: 599
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6000,6 +7800,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 595
+Node: 600
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6010,6 +7813,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 594
+Node: 601
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6020,6 +7826,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 601
+Node: 602
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6030,6 +7839,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 601
+Node: 603
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6040,6 +7852,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 601
+Node: 604
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6050,6 +7865,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 601
+Node: 605
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6060,6 +7878,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 601
+Node: 606
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6070,6 +7891,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 594
+Node: 607
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6080,6 +7904,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 607
+Node: 608
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6090,6 +7917,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 607
+Node: 609
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6100,6 +7930,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 607
+Node: 610
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6110,6 +7943,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 607
+Node: 611
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6120,6 +7956,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 607
+Node: 612
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6130,6 +7969,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 594
+Node: 613
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6140,6 +7982,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 613
+Node: 614
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6150,6 +7995,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 613
+Node: 615
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6160,6 +8008,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 613
+Node: 616
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6170,6 +8021,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 613
+Node: 617
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   || 4 ||   |
@@ -6180,6 +8034,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 613
+Node: 618
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6190,6 +8047,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 594
+Node: 619
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6200,6 +8060,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 619
+Node: 620
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6210,6 +8073,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 619
+Node: 621
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6220,6 +8086,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 619
+Node: 622
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6230,6 +8099,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 619
+Node: 623
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6240,6 +8112,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 619
+Node: 624
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   || 4 |
@@ -6250,6 +8125,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 1
+Parent Node: 0
+Node: 625
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6260,6 +8138,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 625
+Node: 626
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6270,6 +8151,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 626
+Node: 627
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6280,6 +8164,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 627
+Node: 628
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 | 4 ||   ||   ||   ||   |
@@ -6290,6 +8177,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 627
+Node: 629
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6300,6 +8190,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 627
+Node: 630
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6310,6 +8203,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 627
+Node: 631
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6320,6 +8216,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 627
+Node: 632
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6330,6 +8229,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 626
+Node: 633
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6340,6 +8242,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 633
+Node: 634
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6350,6 +8255,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 633
+Node: 635
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6360,6 +8268,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 633
+Node: 636
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6370,6 +8281,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 633
+Node: 637
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6380,6 +8294,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 633
+Node: 638
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6390,6 +8307,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 626
+Node: 639
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6400,6 +8320,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 639
+Node: 640
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6410,6 +8333,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 639
+Node: 641
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6420,6 +8346,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 639
+Node: 642
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6430,6 +8359,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 639
+Node: 643
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6440,6 +8372,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 639
+Node: 644
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6450,6 +8385,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 626
+Node: 645
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6460,6 +8398,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 645
+Node: 646
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6470,6 +8411,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 645
+Node: 647
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6480,6 +8424,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 645
+Node: 648
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6490,6 +8437,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 645
+Node: 649
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6500,6 +8450,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 645
+Node: 650
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6510,6 +8463,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 626
+Node: 651
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6520,6 +8476,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 651
+Node: 652
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6530,6 +8489,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 651
+Node: 653
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6540,6 +8502,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 651
+Node: 654
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6550,6 +8515,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 651
+Node: 655
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6560,6 +8528,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 651
+Node: 656
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   || 4 |
@@ -6570,6 +8541,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 625
+Node: 657
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6580,6 +8554,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 657
+Node: 658
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6590,6 +8567,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 658
+Node: 659
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6600,6 +8580,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 658
+Node: 660
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6610,6 +8593,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 658
+Node: 661
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6620,6 +8606,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 658
+Node: 662
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6630,6 +8619,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 658
+Node: 663
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6640,6 +8632,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 657
+Node: 664
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6650,6 +8645,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 664
+Node: 665
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6660,6 +8658,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 664
+Node: 666
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   || 4 ||   ||   ||   |
@@ -6670,6 +8671,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 664
+Node: 667
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6680,6 +8684,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 664
+Node: 668
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6690,6 +8697,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 664
+Node: 669
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6700,6 +8710,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 657
+Node: 670
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6710,6 +8723,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 670
+Node: 671
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6720,6 +8736,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 670
+Node: 672
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6730,6 +8749,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 670
+Node: 673
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6740,6 +8762,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 670
+Node: 674
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6750,6 +8775,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 670
+Node: 675
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6760,6 +8788,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 657
+Node: 676
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6770,6 +8801,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 676
+Node: 677
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6780,6 +8814,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 676
+Node: 678
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6790,6 +8827,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 676
+Node: 679
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6800,6 +8840,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 676
+Node: 680
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6810,6 +8853,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 676
+Node: 681
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6820,6 +8866,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 657
+Node: 682
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6830,6 +8879,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 682
+Node: 683
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6840,6 +8892,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 682
+Node: 684
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6850,6 +8905,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 682
+Node: 685
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6860,6 +8918,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 682
+Node: 686
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6870,6 +8931,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 682
+Node: 687
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   || 4 |
@@ -6880,6 +8944,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 625
+Node: 688
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6890,6 +8957,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 688
+Node: 689
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6900,6 +8970,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 689
+Node: 690
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6910,6 +8983,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 689
+Node: 691
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6920,6 +8996,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 689
+Node: 692
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6930,6 +9009,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 689
+Node: 693
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6940,6 +9022,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 689
+Node: 694
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6950,6 +9035,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 688
+Node: 695
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6960,6 +9048,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 695
+Node: 696
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6970,6 +9061,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 695
+Node: 697
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6980,6 +9074,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 695
+Node: 698
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -6990,6 +9087,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 695
+Node: 699
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7000,6 +9100,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 695
+Node: 700
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7010,6 +9113,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 688
+Node: 701
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7020,6 +9126,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 701
+Node: 702
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7030,6 +9139,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 701
+Node: 703
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7040,6 +9152,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 701
+Node: 704
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   || 4 ||   ||   |
@@ -7050,6 +9165,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 701
+Node: 705
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7060,6 +9178,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 701
+Node: 706
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7070,6 +9191,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 688
+Node: 707
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7080,6 +9204,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 707
+Node: 708
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7090,6 +9217,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 707
+Node: 709
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7100,6 +9230,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 707
+Node: 710
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7110,6 +9243,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 707
+Node: 711
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7120,6 +9256,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 707
+Node: 712
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7130,6 +9269,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 688
+Node: 713
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7140,6 +9282,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 713
+Node: 714
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7150,6 +9295,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 713
+Node: 715
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7160,6 +9308,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 713
+Node: 716
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7170,6 +9321,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 713
+Node: 717
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7180,6 +9334,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 713
+Node: 718
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   || 4 |
@@ -7190,6 +9347,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 625
+Node: 719
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7200,6 +9360,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 719
+Node: 720
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7210,6 +9373,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 720
+Node: 721
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7220,6 +9386,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 720
+Node: 722
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7230,6 +9399,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 720
+Node: 723
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7240,6 +9412,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 720
+Node: 724
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7250,6 +9425,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 720
+Node: 725
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7260,6 +9438,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 719
+Node: 726
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7270,6 +9451,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 726
+Node: 727
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7280,6 +9464,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 726
+Node: 728
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7290,6 +9477,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 726
+Node: 729
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7300,6 +9490,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 726
+Node: 730
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7310,6 +9503,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 726
+Node: 731
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7320,6 +9516,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 719
+Node: 732
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7330,6 +9529,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 732
+Node: 733
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7340,6 +9542,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 732
+Node: 734
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7350,6 +9555,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 732
+Node: 735
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7360,6 +9568,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 732
+Node: 736
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7370,6 +9581,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 732
+Node: 737
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7380,6 +9594,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 719
+Node: 738
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7390,6 +9607,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 738
+Node: 739
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7400,6 +9620,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 738
+Node: 740
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7410,6 +9633,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 738
+Node: 741
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7420,6 +9646,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 738
+Node: 742
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   || 4 ||   |
@@ -7430,6 +9659,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 738
+Node: 743
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7440,6 +9672,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 719
+Node: 744
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7450,6 +9685,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 744
+Node: 745
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7460,6 +9698,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 744
+Node: 746
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7470,6 +9711,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 744
+Node: 747
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7480,6 +9724,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 744
+Node: 748
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7490,6 +9737,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 744
+Node: 749
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   || 4 |
@@ -7500,6 +9750,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 2
+Parent Node: 625
+Node: 750
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7510,6 +9763,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 750
+Node: 751
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7520,6 +9776,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 751
+Node: 752
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7530,6 +9789,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 751
+Node: 753
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7540,6 +9802,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 751
+Node: 754
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7550,6 +9815,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 751
+Node: 755
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7560,6 +9828,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 751
+Node: 756
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   || 4 |
@@ -7570,6 +9841,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 750
+Node: 757
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7580,6 +9854,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 757
+Node: 758
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7590,6 +9867,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 757
+Node: 759
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7600,6 +9880,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 757
+Node: 760
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7610,6 +9893,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 757
+Node: 761
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7620,6 +9906,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 757
+Node: 762
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   || 4 |
@@ -7630,6 +9919,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 750
+Node: 763
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7640,6 +9932,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 763
+Node: 764
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7650,6 +9945,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 763
+Node: 765
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7660,6 +9958,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 763
+Node: 766
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7670,6 +9971,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 763
+Node: 767
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7680,6 +9984,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 763
+Node: 768
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   || 4 |
@@ -7690,6 +9997,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 750
+Node: 769
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7700,6 +10010,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 769
+Node: 770
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7710,6 +10023,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 769
+Node: 771
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7720,6 +10036,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 769
+Node: 772
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7730,6 +10049,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 769
+Node: 773
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
@@ -7740,6 +10062,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 769
+Node: 774
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   || 4 |
@@ -7750,6 +10075,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 3
+Parent Node: 750
+Node: 775
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   || 3 |
@@ -7760,6 +10088,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 775
+Node: 776
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   || 3 |
@@ -7770,6 +10101,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 775
+Node: 777
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   || 3 |
@@ -7780,6 +10114,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 775
+Node: 778
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   || 3 |
@@ -7790,6 +10127,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 775
+Node: 779
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   || 3 |
@@ -7800,6 +10140,9 @@ Printing State:
 -------------------------------------------
 
 Printing State:
+Touches so far: 4
+Parent Node: 775
+Node: 780
 |   ||   ||   ||   ||   |
 |   ||   ||   ||   || 4 |
 |   ||   ||   ||   || 3 |

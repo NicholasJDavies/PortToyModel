@@ -9,12 +9,16 @@ from config import VERBOSE, NUM_BOXES, WIDTH, HEIGHT, TOTAL_BOXES
 # initialization of vals.
 BOX_SCHEDULE = random.shuffle(list(range(1,NUM_BOXES)))
 CURR_BOX = 0
+TOTAL_NODES = 0
 
 INPUT_LOAD = list(range(1,NUM_BOXES))
 
-def print_state(state):
+def print_state(node):
     print("\nPrinting State:")
-
+    print(f"Touches so far: {node['touches']}")
+    print(f"Parent Node: {node['parent node']}")
+    print(f"Node: {node['current node']}")
+    state = node['state']
     for row in range(HEIGHT - 1, -1, -1):
         for col in range(WIDTH):
             index = row*WIDTH+col
@@ -52,20 +56,23 @@ def generate_moves(state, box):
             child_states.append(child_state)
     return child_states
 
-def build_graph(state=None, curr_box=1, count=0):
+def build_graph(state=None, curr_box=1, touches=0, node_num=0, parent_node= None):
     """Recursively build a graph of all possible Tic-Tac-Toe games."""
     if state is None:
         state = [0 for _ in range(WIDTH*HEIGHT)]  # Start with an empty board
-        
-    if VERBOSE:
-        print_state(state)
 
     
     # Create a node for the current state
     node = {
         'state': state,
+        'parent node': parent_node,
+        'current node': node_num,
+        'touches': touches,
         'children': [] # TODO: stop repeats
     }
+
+    if VERBOSE:
+        print_state(node)
 
     if curr_box > NUM_BOXES or is_full(state):
 
@@ -75,8 +82,10 @@ def build_graph(state=None, curr_box=1, count=0):
     next_box = curr_box + 1
 
     for child_state in generate_moves(state, curr_box):
-        node['children'].append(build_graph(child_state, next_box, count+1))
-
+        global TOTAL_NODES
+        TOTAL_NODES += 1
+        node['children'].append(build_graph(child_state, next_box, touches+1,TOTAL_NODES,node_num))
+        
     return node
 
 # Example usage
