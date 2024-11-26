@@ -1,40 +1,26 @@
 """ Simulation.py
-Purpose:
-    - Producing a State-space representation of the problem space
 
-Choices:
-    - Boxes are labelled 1,2...N
-    - Truck schedule is randomized
 """
 
 import random
 from itertools import product
+from config import VERBOSE, NUM_BOXES, WIDTH, HEIGHT, TOTAL_BOXES
 
-# initing input values -- edit at will.
-WIDTH = 3
-HEIGHT = 2
-TOTAL = WIDTH * HEIGHT
-
-NUM_BOXES = 4
-if NUM_BOXES > TOTAL:
-    print("retry pls, too many boxes to fit")
-    quit()
-
-# initialization of other vals.
+# initialization of vals.
 BOX_SCHEDULE = random.shuffle(list(range(1,NUM_BOXES)))
 CURR_BOX = 0
 
 INPUT_LOAD = list(range(1,NUM_BOXES))
 
 def print_state(state):
-    print("Printing State:")
+    print("\nPrinting State:")
     for i in range(WIDTH*HEIGHT):
         row = i % WIDTH
         col = i - row*WIDTH
         if (row == 0):
             print("", end="\n")
         print(f"| {state[i]} |", end="")
-    print("\n\n")
+    print("\n\n-------------------------------------------")
     return
 
 def is_full(state):
@@ -64,8 +50,9 @@ def build_graph(state=None, curr_box=1):
     """Recursively build a graph of all possible Tic-Tac-Toe games."""
     if state is None:
         state = [0 for _ in range(WIDTH*HEIGHT)]  # Start with an empty board
-        
-    print_state(state)
+    
+    if VERBOSE:
+        print_state(state)
 
     # Create a node for the current state
     node = {
