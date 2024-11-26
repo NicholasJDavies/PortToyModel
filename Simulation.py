@@ -14,12 +14,13 @@ INPUT_LOAD = list(range(1,NUM_BOXES))
 
 def print_state(state):
     print("\nPrinting State:")
-    for i in range(WIDTH*HEIGHT):
-        row = i % WIDTH
-        col = i - row*WIDTH
-        if (row == 0):
-            print("", end="\n")
-        print(f"| {state[i]} |", end="")
+
+    for row in range(HEIGHT - 1, -1, -1):
+        for col in range(WIDTH):
+            index = row*WIDTH+col
+            print(f"| {state[index] if state[index] != 0 else ' ' } |", end="")
+        print("", end="\n")
+
     print("\n\n-------------------------------------------")
     return
 
@@ -38,36 +39,43 @@ def drop_box(state, column, box):
         if state[index] == 0:  # If the cell is empty
             state[index] = box
             return state  # Successfully dropped the box
+    return None # no empty cells.
         
 def generate_moves(state, box):
     """Generate all possible next moves"""
-    return [
-        drop_box(state[:],i,box)
-        for i in range(WIDTH)
-    ]
+    child_states = []
+    for i in range(WIDTH):
+        child_state = drop_box(state[:],i,box)
+        if child_state == None:
+            continue
+        else:
+            child_states.append(child_state)
+    return child_states
 
-def build_graph(state=None, curr_box=1):
+def build_graph(state=None, curr_box=1, count=0):
     """Recursively build a graph of all possible Tic-Tac-Toe games."""
     if state is None:
         state = [0 for _ in range(WIDTH*HEIGHT)]  # Start with an empty board
-    
+        
     if VERBOSE:
         print_state(state)
 
+    
     # Create a node for the current state
     node = {
         'state': state,
-        'children': [] # TODO: children to nodes? who knows, lets not have repeats.
+        'children': [] # TODO: stop repeats
     }
 
-    
-    if curr_box == NUM_BOXES or is_full(state):
-        return node  # Terminal state, no children
+    if curr_box > NUM_BOXES or is_full(state):
 
+        return node # terminal state / solution state
+    
     # Generate child nodes
     next_box = curr_box + 1
-    for state in generate_moves(state, curr_box):
-        node['children'].append(build_graph(state, next_box))
+
+    for child_state in generate_moves(state, curr_box):
+        node['children'].append(build_graph(child_state, next_box, count+1))
 
     return node
 
@@ -75,7 +83,7 @@ def build_graph(state=None, curr_box=1):
 root = build_graph()
 
 def count_nodes(node):
-    """Count all nodes in the graph."""
+    """Count all nodes in the graph (Recursive)"""
     return 1 + sum(count_nodes(child) for child in node['children'])
 
 print("Total nodes:", count_nodes(root))
