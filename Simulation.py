@@ -11,7 +11,7 @@ import random
 from itertools import product
 
 # initing input values -- edit at will.
-WIDTH = 2
+WIDTH = 3
 HEIGHT = 2
 TOTAL = WIDTH * HEIGHT
 
@@ -26,7 +26,16 @@ CURR_BOX = 0
 
 INPUT_LOAD = list(range(1,NUM_BOXES))
 
-from itertools import product
+def print_state(state):
+    print("Printing State:")
+    for i in range(WIDTH*HEIGHT):
+        row = i % WIDTH
+        col = i - row*WIDTH
+        if (row == 0):
+            print("", end="\n")
+        print(f"| {state[i]} |", end="")
+    print("\n\n")
+    return
 
 def is_full(state):
     """Check if the board is full."""
@@ -54,7 +63,9 @@ def generate_moves(state, box):
 def build_graph(state=None, curr_box=1):
     """Recursively build a graph of all possible Tic-Tac-Toe games."""
     if state is None:
-        state = [[0 for _ in range(WIDTH)] for _ in range(HEIGHT)]  # Start with an empty board
+        state = [0 for _ in range(WIDTH*HEIGHT)]  # Start with an empty board
+        
+    print_state(state)
 
     # Create a node for the current state
     node = {
@@ -75,3 +86,9 @@ def build_graph(state=None, curr_box=1):
 
 # Example usage
 root = build_graph()
+
+def count_nodes(node):
+    """Count all nodes in the graph."""
+    return 1 + sum(count_nodes(child) for child in node['children'])
+
+print("Total nodes:", count_nodes(root))
