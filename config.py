@@ -1,15 +1,15 @@
 # Config vars for Simulation.py
 VERBOSE = True
 
-WIDTH = 3
+WIDTH = 5
 HEIGHT = 2
 TOTAL_BOXES = WIDTH * HEIGHT
 
-# current format of boxes: (box #, box weight)
+# current format of boxes: (box #, box weight, priority (truck schedule))
 def init_load_plan():
     # edit this function as needed to change the input to the program.
     num_boxes = 5
-    load_plan = [(i,10-i) for i in range(1, num_boxes+1)]
+    load_plan = [(i,i,i) for i in range(1, num_boxes+1)]
     return load_plan
 LOAD_PLAN = init_load_plan()
 

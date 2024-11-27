@@ -10,7 +10,8 @@ from copy import deepcopy
 # initialization of vals.
 BOX_SCHEDULE = random.shuffle(list(range(1,NUM_BOXES)))
 TOTAL_NODES = 0
-EMPTY_BOX = (0,0)
+EMPTY_BOX = (0,0,0)
+TOTAL_SOLUTION_STATES = 0
 
 INPUT_LOAD = list(range(1,NUM_BOXES))
 
@@ -20,19 +21,19 @@ def print_state(node):
     print(f"Parent Node: {node['parent node']}")
     print(f"Node: {node['current node']}")
     yard = node['state']['yard']
-    print("Box format is (Box #, weight)")
+    print("Box format (Box #, weight, priority)")
     print("yard:")
     for row in range(HEIGHT - 1, -1, -1):
         for col in range(WIDTH):
             index = row*WIDTH+col
             box = yard[index]
-            print(f"| {(str(box[0]) + ', ' + str(box[1])) if box != EMPTY_BOX else '    ' } |", end="")
+            print(f"| {(str(box[0]) + ',' + str(box[1]) + ','+str(box[2])) if box != EMPTY_BOX else '     ' } |", end="")
         print("", end="\n")
 
     load_plan = node['state']['load plan']
     print("load plan:")
     for box in load_plan:
-        print(f"| {(str(box[0]) + ', ' + str(box[1]))} |", end="")
+        print(f"| {(str(box[0]) + ',' + str(box[1]) + ','+str(box[2]))} |", end="")
     print("", end="\n")
 
     print("\n-------------------------------------------\n")
@@ -117,6 +118,8 @@ def build_graph(state=None, touches=0, node_num=0, parent_node= None):
         print_state(node)
 
     if is_empty(state['load plan']) or is_full(state['yard']):
+        global TOTAL_SOLUTION_STATES
+        TOTAL_SOLUTION_STATES += 1
         return node # terminal state / solution state
 
     for child_state in generate_moves(state):
@@ -136,3 +139,4 @@ def count_nodes(node):
     return 1 + sum(count_nodes(child) for child in node['children'])
 
 print("Total nodes:", count_nodes(root))
+print("Total solution states:", TOTAL_SOLUTION_STATES)
