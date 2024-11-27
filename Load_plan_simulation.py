@@ -17,6 +17,10 @@ INPUT_LOAD = list(range(1,NUM_BOXES))
 
 def print_state(node):
     print("Printing State:")
+    if node['solution state']:
+        print("Solution State")
+    else:
+        print("Not Solution State")
     print(f"Touches so far: {node['touches']}")
     print(f"Parent Node: {node['parent node']}")
     print(f"Node: {node['current node']}")
@@ -34,7 +38,10 @@ def print_state(node):
     print("load plan:")
     for box in load_plan:
         print(f"| {(str(box[0]) + ',' + str(box[1]) + ','+str(box[2]))} |", end="")
+    if len(load_plan) == 0:
+        print("<Empty Load Plan>", end="")
     print("", end="\n")
+    
 
     print("\n-------------------------------------------\n")
     return
@@ -111,16 +118,20 @@ def build_graph(state=None, touches=0, node_num=0, parent_node= None):
         'parent node': parent_node,
         'current node': node_num,
         'touches': touches,
+        'solution state': False,
         'children': []
     }
-
-    if VERBOSE:
-        print_state(node)
 
     if is_empty(state['load plan']) or is_full(state['yard']):
         global TOTAL_SOLUTION_STATES
         TOTAL_SOLUTION_STATES += 1
+        node['solution state'] = True
+        if VERBOSE:
+            print_state(node)
         return node # terminal state / solution state
+
+    if VERBOSE:
+        print_state(node)
 
     for child_state in generate_moves(state):
         global TOTAL_NODES

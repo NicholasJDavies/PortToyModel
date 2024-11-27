@@ -1,6 +1,7 @@
 # Config vars for Simulation.py
 VERBOSE = True
 
+# WIDTH and HEIGHT of the yard.
 WIDTH = 5
 HEIGHT = 2
 TOTAL_BOXES = WIDTH * HEIGHT

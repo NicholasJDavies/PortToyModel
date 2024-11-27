@@ -18,7 +18,7 @@ TOTAL_SOLUTION_STATES = 0
 INPUT_LOAD = list(range(1,NUM_BOXES))
 
 def print_state(node):
-    print("Printing State:")
+    print("TRUCK SCHEDULE: State:")
     print(f"Touches so far: {node['touches']}")
     print(f"Parent Node: {node['parent node']}")
     print(f"Node: {node['current node']}")
@@ -31,25 +31,14 @@ def print_state(node):
             box = yard[index]
             print(f"| {(str(box[0]) + ',' + str(box[1]) + ','+str(box[2])) if box != EMPTY_BOX else '     ' } |", end="")
         print("", end="\n")
-
-    load_plan = node['state']['load plan']
-    print("load plan:")
-    for box in load_plan:
-        print(f"| {(str(box[0]) + ',' + str(box[1]) + ','+str(box[2]))} |", end="")
-    print("", end="\n")
-
     print("\n-------------------------------------------\n")
     return
 
-def is_full(yard):
-    """Check if the board is full."""
-    return all(box[0] != 0 for box in yard)
+def is_empty(yard):
+    return all(box == EMPTY_BOX for box in yard)
 
-def is_empty(load_plan):
-    return len(load_plan) == 0
-
-def drop_box(state, column, box):
-    """Drop a box into the state, Connect-4 style"""
+def drop_box(yard, column, box):
+    """Drop a box into the column, Connect-4 style"""
     # Check if the column is valid
     if column < 0 or column >= WIDTH:
         raise ValueError("Invalid column index.")
@@ -59,77 +48,103 @@ def drop_box(state, column, box):
     for row in range(0, HEIGHT):
         index = row * WIDTH + column
         
-        stacked_box = state[index]
+        stacked_box = yard[index]
         if stacked_box == EMPTY_BOX:  # cell is empty
             if box_weight <= prev_weight:
-                state[index] = box
-                return state  # Successfully dropped the box
+                yard[index] = box
+                return yard  # Successfully dropped the box
             else:
                 return None
         else:
             prev_weight = stacked_box[1]
     return None # no empty cells.
         
-def generate_moves(state):
-    """Generate all possible states after the next move
-    Some future planning to allow for easy transition to a different format of load_plan
+def top_box(yard, col):
+    """ Returns the index of the top box of a column.
+    Returns -1 iff column is empty.
     """
+    print(f"given col: {col}")
+    for row in range(HEIGHT-1, -1, -1):
+        # index of potentially blocking box
+        index = row * WIDTH + col
+        if yard[index] != EMPTY_BOX:
+            return index
+    return -1
 
+def generate_moves(node):
+    """Generate all possible states after the next move
+    """
+    state = node['state']
     child_states = []
-    boxes = []
+    next_box_indexes = []
     yard = state['yard']
-    load_plan = state['load plan']
-
-    for i in range(1):
-        boxes.append(load_plan[0])
-
-    for i in range(WIDTH):
+    # find lowest priority -- next box to go out
+    min_priority_index = min((i for i, x in enumerate(yard) if x != EMPTY_BOX), key=lambda i: yard[i][2])
+    curr_row = min_priority_index % WIDTH
+    curr_col = min_priority_index - curr_row*WIDTH
+    top_index = top_box(yard, curr_col)
+    if top_index == min_priority_index: # Box is free.
+        # pop the box and move onto the next.
         child_state = {
             'yard':deepcopy(yard),
-            'load plan': deepcopy(load_plan)
         }
-        next_box = boxes[0]
-        index_next_box = child_state['load plan'].index(next_box)
-        child_state['load plan'].pop(index_next_box)
-
-        child_state['yard'] = drop_box(child_state['yard'],i,next_box)
-        if child_state['yard'] == None:
-            continue
-        else:
-            child_states.append(child_state)
+        child_state['yard'][min_priority_index] = EMPTY_BOX
+        child_states.append(child_state)
+    else:
+        for i in range(1):
+            # leaving room to allow for other movements.
+            next_box_indexes.append(top_index)
+        print(f"top index = {top_index}")
+        for i in range(WIDTH):
+            row = i % WIDTH
+            col = i - row*WIDTH
+            if col == curr_col: # cant move box to same column.
+                continue
+            child_state = {
+                'yard':deepcopy(yard),
+            }
+            index_next_box = next_box_indexes[0]
+            next_box = child_state['yard'][index_next_box]
+            child_state['yard'][index_next_box] = EMPTY_BOX
+            child_state['yard'] = drop_box(child_state['yard'],i,next_box)
+            
+            print(f"next box index- {index_next_box}")
+            print(f"next box itself - {next_box}")
+            print(f"next yard - {child_state['yard']}")
+            if child_state['yard'] == None:
+                continue
+            else:
+                child_states.append(child_state)
+    print(child_states)
     return child_states
 
-def build_graph(state=None, touches=0, node_num=0, parent_node= None):
-    """Recursively build a graph of all possible Tic-Tac-Toe games."""
-    if state is None:
-        state = {
-            'yard': [EMPTY_BOX for _ in range(WIDTH*HEIGHT)],  # Start with an empty board
-            'load plan': LOAD_PLAN
-        }
-
+def build_graph(node):
+    """Recursively build a graph of all possible box movements/shipments"""
     # Create a node for the current state
-    node = {
-        'state': state,
-        'parent node': parent_node,
-        'current node': node_num,
-        'touches': touches,
-        'children': []
-    }
-
     if VERBOSE:
         print_state(node)
+    state = node['state']
 
-    if is_empty(state['load plan']) or is_full(state['yard']):
+    if is_empty(state['yard']):
         global TOTAL_SOLUTION_STATES
         TOTAL_SOLUTION_STATES += 1
+        print("asdf")
         return node # terminal state / solution state
 
-    for child_state in generate_moves(state):
+    for child_state in generate_moves(node):
         global TOTAL_NODES
         TOTAL_NODES += 1
-
+        child_node = {
+            'state': child_state,
+            'parent node': node['current node'],
+            'current node': TOTAL_NODES,
+            'touches': node['touches']+1,
+            'solution state': False,
+            'children': []
+        }
+        
         # TODO: Better not to be recursive (BFS has big benefits -- can know that the first time you see a specific hash state is one of the optimal ways to reach it.) but eh for now
-        node['children'].append(build_graph(child_state, touches+1, TOTAL_NODES, node_num))
+        node['children'].append(build_graph(child_node))
         
     return node
 
@@ -142,4 +157,23 @@ def count_nodes(node):
 
 print("Total nodes:", count_nodes(root))
 print("Total solution states:", TOTAL_SOLUTION_STATES)
+print("BEGINNING TRUCK SCHEDULE\n\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=")
 
+def get_solution_space(node):
+    # recursively find the solution space.
+    # solution space of the load plan simulation.
+    
+    if node['solution state']:
+        return [node]
+
+    # recursion -- inefficient but easy to code for now
+    leaves = []
+    for child in node['children']:
+        leaves.extend(get_solution_space(child))
+    
+    return leaves
+
+solution_space = get_solution_space(root)
+
+# print(solution_space[0])
+build_graph(solution_space[0])
