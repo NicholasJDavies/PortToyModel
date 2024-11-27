@@ -15,11 +15,12 @@ EMPTY_BOX = (0,0)
 INPUT_LOAD = list(range(1,NUM_BOXES))
 
 def print_state(node):
-    print("\nPrinting State:")
+    print("Printing State:")
     print(f"Touches so far: {node['touches']}")
     print(f"Parent Node: {node['parent node']}")
     print(f"Node: {node['current node']}")
     yard = node['state']['yard']
+    print("Box format is (Box #, weight)")
     print("yard:")
     for row in range(HEIGHT - 1, -1, -1):
         for col in range(WIDTH):
@@ -34,7 +35,7 @@ def print_state(node):
         print(f"| {(str(box[0]) + ', ' + str(box[1]))} |", end="")
     print("", end="\n")
 
-    print("\n\n-------------------------------------------")
+    print("\n-------------------------------------------\n")
     return
 
 def is_full(yard):
