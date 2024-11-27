@@ -14,6 +14,6 @@
             - lower numbers represent a higher priority 
 ## Usage:
 ### Linux/unix:
-    Run with ```python3 ./Simulation.py > output.txt``` (Pipes output to output.txt)
+    Run with ```python3 ./Load_plan_simulation.py > output.txt``` (Pipes output to output.txt)
 ### Windows: 
-    Run with ```python ./Simulation.py > output.txt``` (Pipes output to output.txt)
+    Run with ```python ./Load_plan_simulation.py > output.txt``` (Pipes output to output.txt)

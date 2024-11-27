@@ -1,11 +1,13 @@
-""" Simulation.py
-
+"""Truck_schedule_simulation.py
+This one simulates the post-load plan part - the Truck schedule.
+If a Box CAN go out to a truck, it does so immediately.
 """
 
 import random
 from itertools import product
 from config import VERBOSE, NUM_BOXES, WIDTH, HEIGHT, TOTAL_BOXES, LOAD_PLAN
 from copy import deepcopy
+from Load_plan_simulation import build_graph
 
 # initialization of vals.
 BOX_SCHEDULE = random.shuffle(list(range(1,NUM_BOXES)))

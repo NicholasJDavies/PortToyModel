@@ -1,5 +1,6 @@
-"""Simulation2.py
-This one simulates the post-load plan part - the Truck schedule."""
+""" Load_plan_simulation.py
+
+"""
 
 import random
 from itertools import product
@@ -9,7 +10,7 @@ from copy import deepcopy
 # initialization of vals.
 BOX_SCHEDULE = random.shuffle(list(range(1,NUM_BOXES)))
 TOTAL_NODES = 0
-EMPTY_BOX = (0,0,0)
+EMPTY_SQUARE = (0,0,0)
 TOTAL_SOLUTION_STATES = 0
 
 INPUT_LOAD = list(range(1,NUM_BOXES))
@@ -26,7 +27,7 @@ def print_state(node):
         for col in range(WIDTH):
             index = row*WIDTH+col
             box = yard[index]
-            print(f"| {(str(box[0]) + ',' + str(box[1]) + ','+str(box[2])) if box != EMPTY_BOX else '     ' } |", end="")
+            print(f"| {(str(box[0]) + ',' + str(box[1]) + ','+str(box[2])) if box != EMPTY_SQUARE else '     ' } |", end="")
         print("", end="\n")
 
     load_plan = node['state']['load plan']
@@ -57,7 +58,7 @@ def drop_box(state, column, box):
         index = row * WIDTH + column
         
         stacked_box = state[index]
-        if stacked_box == EMPTY_BOX:  # cell is empty
+        if stacked_box == EMPTY_SQUARE:  # cell is empty
             if box_weight <= prev_weight:
                 state[index] = box
                 return state  # Successfully dropped the box
@@ -100,7 +101,7 @@ def build_graph(state=None, touches=0, node_num=0, parent_node= None):
     """Recursively build a graph of all possible Tic-Tac-Toe games."""
     if state is None:
         state = {
-            'yard': [EMPTY_BOX for _ in range(WIDTH*HEIGHT)],  # Start with an empty board
+            'yard': [EMPTY_SQUARE for _ in range(WIDTH*HEIGHT)],  # Start with an empty board
             'load plan': LOAD_PLAN
         }
 
