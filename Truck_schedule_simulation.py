@@ -7,7 +7,7 @@ import random
 from itertools import product
 from config import VERBOSE, NUM_BOXES, WIDTH, HEIGHT, TOTAL_BOXES, LOAD_PLAN
 from copy import deepcopy
-from Load_plan_simulation import build_graph
+import Load_plan_simulation
 
 # initialization of vals.
 BOX_SCHEDULE = random.shuffle(list(range(1,NUM_BOXES)))
@@ -134,7 +134,7 @@ def build_graph(state=None, touches=0, node_num=0, parent_node= None):
     return node
 
 # usage
-root = build_graph()
+root = Load_plan_simulation.build_graph()
 
 def count_nodes(node):
     """Count all nodes in the graph (Recursive)"""
@@ -142,3 +142,4 @@ def count_nodes(node):
 
 print("Total nodes:", count_nodes(root))
 print("Total solution states:", TOTAL_SOLUTION_STATES)
+

@@ -98,7 +98,7 @@ def generate_moves(state):
     return child_states
 
 def build_graph(state=None, touches=0, node_num=0, parent_node= None):
-    """Recursively build a graph of all possible Tic-Tac-Toe games."""
+    """Recursively build a graph of all possible states from load plan."""
     if state is None:
         state = {
             'yard': [EMPTY_SQUARE for _ in range(WIDTH*HEIGHT)],  # Start with an empty board
