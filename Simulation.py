@@ -4,7 +4,7 @@
 
 import random
 from itertools import product
-from config import VERBOSE, NUM_BOXES, WIDTH, HEIGHT, TOTAL_BOXES
+from config import VERBOSE, NUM_BOXES, WIDTH, HEIGHT, TOTAL_BOXES, LOAD_PLAN
 from copy import deepcopy
 
 # initialization of vals.
@@ -95,17 +95,12 @@ def generate_moves(state):
             child_states.append(child_state)
     return child_states
 
-def init_load_plan():
-    # needs num boxes.
-    load_plan = [(i,4-i) for i in range(1, NUM_BOXES)]
-    return load_plan
-
 def build_graph(state=None, touches=0, node_num=0, parent_node= None):
     """Recursively build a graph of all possible Tic-Tac-Toe games."""
     if state is None:
         state = {
             'yard': [EMPTY_BOX for _ in range(WIDTH*HEIGHT)],  # Start with an empty board
-            'load plan': init_load_plan()
+            'load plan': LOAD_PLAN
         }
 
     # Create a node for the current state
@@ -126,6 +121,8 @@ def build_graph(state=None, touches=0, node_num=0, parent_node= None):
     for child_state in generate_moves(state):
         global TOTAL_NODES
         TOTAL_NODES += 1
+
+        # TODO: Better not to be recursive (BFS has big benefits -- can know that the first time you see a specific hash state is one of the optimal ways to reach it.) but eh for now
         node['children'].append(build_graph(child_state, touches+1, TOTAL_NODES, node_num))
         
     return node
