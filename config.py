@@ -7,6 +7,7 @@ HEIGHT = 2
 TOTAL_BOXES = WIDTH * HEIGHT
 
 # current format of boxes: (box #, box weight, priority (truck schedule))
+# the load plan (currently 1D only) decides the order that the boxes will be loaded into the yard
 def init_load_plan():
     # edit this function as needed to change the input to the program.
     num_boxes = 5

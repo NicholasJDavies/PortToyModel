@@ -1,5 +1,5 @@
 """Truck_schedule_simulation.py
-This one simulates the post-load plan part - the Truck schedule.
+Simulates the post-load plan part - the Truck schedule.
 If a Box CAN go out to a truck, it does so immediately.
 """
 
@@ -63,10 +63,10 @@ def top_box(yard, col):
     """ Returns the index of the top box of a column.
     Returns -1 iff column is empty.
     """
-    print(f"given col: {col}")
     for row in range(HEIGHT-1, -1, -1):
         # index of potentially blocking box
         index = row * WIDTH + col
+
         if yard[index] != EMPTY_BOX:
             return index
     return -1
@@ -80,8 +80,8 @@ def generate_moves(node):
     yard = state['yard']
     # find lowest priority -- next box to go out
     min_priority_index = min((i for i, x in enumerate(yard) if x != EMPTY_BOX), key=lambda i: yard[i][2])
-    curr_row = min_priority_index % WIDTH
-    curr_col = min_priority_index - curr_row*WIDTH
+    curr_col = min_priority_index % WIDTH
+    curr_row = (min_priority_index - curr_col)/WIDTH
     top_index = top_box(yard, curr_col)
     if top_index == min_priority_index: # Box is free.
         # pop the box and move onto the next.
@@ -94,10 +94,9 @@ def generate_moves(node):
         for i in range(1):
             # leaving room to allow for other movements.
             next_box_indexes.append(top_index)
-        print(f"top index = {top_index}")
         for i in range(WIDTH):
-            row = i % WIDTH
-            col = i - row*WIDTH
+            col = i % WIDTH
+            row = (i - col)/WIDTH
             if col == curr_col: # cant move box to same column.
                 continue
             child_state = {
@@ -107,15 +106,10 @@ def generate_moves(node):
             next_box = child_state['yard'][index_next_box]
             child_state['yard'][index_next_box] = EMPTY_BOX
             child_state['yard'] = drop_box(child_state['yard'],i,next_box)
-            
-            print(f"next box index- {index_next_box}")
-            print(f"next box itself - {next_box}")
-            print(f"next yard - {child_state['yard']}")
             if child_state['yard'] == None:
                 continue
             else:
                 child_states.append(child_state)
-    print(child_states)
     return child_states
 
 def build_graph(node):
@@ -128,7 +122,6 @@ def build_graph(node):
     if is_empty(state['yard']):
         global TOTAL_SOLUTION_STATES
         TOTAL_SOLUTION_STATES += 1
-        print("asdf")
         return node # terminal state / solution state
 
     for child_state in generate_moves(node):
