@@ -1,5 +1,6 @@
 # Config vars for Simulation.py
 VERBOSE = True
+VERBOSE_LOAD_PLAN = False
 
 # WIDTH and HEIGHT of the yard.
 WIDTH = 5

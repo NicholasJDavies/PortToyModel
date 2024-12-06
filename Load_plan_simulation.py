@@ -4,7 +4,7 @@
 
 import random
 from itertools import product
-from config import VERBOSE, NUM_BOXES, WIDTH, HEIGHT, TOTAL_BOXES, LOAD_PLAN
+from config import VERBOSE_LOAD_PLAN, VERBOSE, NUM_BOXES, WIDTH, HEIGHT, TOTAL_BOXES, LOAD_PLAN
 from copy import deepcopy
 
 # initialization of vals.
@@ -126,11 +126,11 @@ def build_graph(state=None, touches=0, node_num=0, parent_node= None):
         global TOTAL_SOLUTION_STATES
         TOTAL_SOLUTION_STATES += 1
         node['solution state'] = True
-        if VERBOSE:
+        if VERBOSE_LOAD_PLAN:
             print_state(node)
         return node # terminal state / solution state
 
-    if VERBOSE:
+    if VERBOSE_LOAD_PLAN:
         print_state(node)
 
     for child_state in generate_moves(state):
